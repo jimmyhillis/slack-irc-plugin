@@ -2,7 +2,7 @@
   "name": "slack-irc-plugin",
   "description": "Tracking an IRC channel directly into your slack channels.",
   "version": "0.1.0",
-  "homepage": "https://github.com/thehumblebrag/slack-irc-plugin",
+  "homepage": "https://github.com/jimmyhillis/slack-irc-plugin",
   "author": {
     "name": "Jimmy Hillis",
     "email": "jimmy@hillis.me",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thehumblebrag/slack-irc-plugin.git"
+    "url": "git://github.com/jimmyhillis/slack-irc-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/thehumblebrag/slack-irc-plugin/issues"
+    "url": "https://github.com/jimmyhillis/slack-irc-plugin/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/thehumblebrag/slack-irc-plugin/blob/master/LICENSE"
+      "url": "https://github.com/jimmyhillis/slack-irc-plugin/blob/master/LICENSE"
     }
   ],
   "engines": {
