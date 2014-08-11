@@ -4,6 +4,12 @@ IRC integration with [slack](http://slack.com).
 
 ## Usage
 
+```javascript
+git clone https://github.com/jimmyhillis/slack-irc-plugin.git
+cd slack-irc-plugin
+npm install
+```
+
 Write your own configuration file (`config-example.js`) is a good starting point for building your own.
 
 ```javascript
