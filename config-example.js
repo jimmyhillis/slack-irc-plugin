@@ -11,6 +11,8 @@ var config = {
     users: {
         '~irclogin': 'slackuser'
     }
+    // optionals
+    // silent: false // keep the bot quiet
 };
 
 var slackbot = new slackbot.Bot(config);
