@@ -26,7 +26,8 @@
   },
   "dependencies": {
     "request": "~2.33.0",
-    "irc": "~0.3.6"
+    "irc": "~0.3.6",
+    "underscore": "^1.7.0"
   },
   "devDependencies": {},
   "bin": {
