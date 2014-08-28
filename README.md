@@ -23,7 +23,9 @@ var config = {
     },
     users: {
         '~irclogin': 'slackuser'
-    }
+    },
+    // optionals
+    silent: false // default
 }
 ```
 
@@ -41,4 +43,5 @@ This will launch the bot in your terminal based on provided configuration.
 - `token`: Your Slack API token
 - `channels`: Map of IRC channel to Slack channel names, with optional password
 - `users`: Map of IRC nick to Slack username
+- `silent`: Set to true to stop IRC bot from speaking into the channel
 
