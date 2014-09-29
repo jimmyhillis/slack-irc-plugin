@@ -14,6 +14,7 @@ Write your own configuration file (`config-example.js`) is a good starting point
 
 ```javascript
 var config = {
+    // required
     server: 'irc.freenode.com',
     nick: 'slackbot',
     username: 'slackbot-username',
@@ -26,6 +27,8 @@ var config = {
     },
     // optionals
     silent: false // default
+    // node-irc options
+    floodProtection: true
 }
 ```
 
