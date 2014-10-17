@@ -43,7 +43,7 @@ This will launch the bot in your terminal based on provided configuration.
 - `server`: IRC server
 - `nick`: IRC bot's nickname
 - `username`: IRC bot's IRC login (no tilde ~)
-- `token`: Your Slack API token
+- `token`: Your Slack API token, get your token at https://api.slack.com/
 - `channels`: Map of IRC channel to Slack channel names, with optional password
 - `users`: Map of IRC nick to Slack username
 - `silent`: Set to true to stop IRC bot from speaking into the channel
