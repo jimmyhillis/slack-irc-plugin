@@ -16,6 +16,9 @@ Write your own configuration file (`config-example.js`) is a good starting point
 var config = {
     // required
     server: 'irc.freenode.com',
+    port: 6667,
+    secure: false,
+    password: '(optional)',
     nick: 'slackbot',
     username: 'slackbot-username',
     token: 'XXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX-XXXXXX',
